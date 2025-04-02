@@ -5,7 +5,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Post Logistic Management Project
+- 🔭 I’m currently working on  Srilankan Post Logistic Management Project
   
 - 🌱 I’m currently learning React, Node js
   
