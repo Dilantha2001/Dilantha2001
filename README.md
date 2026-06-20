@@ -1,76 +1,169 @@
 <div align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="150px" />
-  <h1>Hi 👋, I'm Dilantha Ranaweera</h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Developer+(MERN+%2B+TypeScript);Passionate+About+Modern+Web+Technologies" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:6366f1&height=230&section=header&text=Dilantha%20Ranaweera&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%2B%20TypeScript&descAlignY=55&descSize=18" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1100&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineering+Undergraduate;Full-Stack+Developer+(React+%7C+Node.js+%7C+TypeScript);Building+REST+APIs+%26+Scalable+Web+Apps;Currently+exploring+AI+%2B+Computer+Vision" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://pramuditha.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-pramuditha.dev-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/dilantha-ranaweera-825148295/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:pramudithadilantha89@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Dilantha2001" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Dilantha2001-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Dilantha2001&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/Dilantha2001?label=Followers&style=for-the-badge&color=6366f1&labelColor=0f172a" alt="followers" />
+
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&section=header" width="100%"/>
+
+<br/>
+
+
+## 👨‍💻 About Me
+
+<br clear="right"/>
+
+```yaml
+name: Dilantha Ranaweera
+role: Full-Stack Developer | Software Engineering Undergraduate
+location: Colombo, Sri Lanka
+focus: React • Node.js • Express.js • MongoDB • PostgreSQL • MySQL
+currently_building: Sri Lanka Post Logistics System & Advanced E-Commerce Engine
+currently_learning: Next.js, GSAP Animations, AI/Computer Vision Integrations
+experience: 6 months @ Department of Posts (IT Division)
+fun_fact: I love optimizing UIs until they feel buttery smooth 🧈
+```
+
+- 🔭 Currently building the **Trust Post Logistics System** & an **Advanced E-Commerce Engine**
+- 🌱 Diving deeper into **Next.js**, **GSAP**, and **AI-powered applications**
+- 💼 Interned as a **Software Developer** at the **Department of Posts (IT Division)**, Sri Lanka
+- 📝 Published research at **CIRS-2024** on cashless smart-card payment systems
+- 💬 Ask me about **MERN stack, TypeScript, PostgreSQL & Clean Architecture**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:6366f1&height=2&section=header" width="100%"/>
+
+## 🛠️ Tech Stack
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/dilantha-ranaweera-825148295/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
-  </a>
-  <a href="https://github.com/Dilantha2001" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="github logo"  />
-  </a>
-  <a href="mailto:pramudithadilantha89@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email logo"  />
-  </a>
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,php" />
+
+**Frontend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins,aws,git,github" />
+
 </div>
 
 <br/>
 
-<img width="45%" align="right" alt="Github Illustration" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:6366f1&height=2&section=header" width="100%"/>
 
-### 👨‍💻 About Me
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on the **Sri Lankan Post Logistics Management System** & **Advanced E-Commerce Engines**.
-- 🌱 I’m currently diving deeper into **Next.js, Advanced Animations (GSAP), and AI Integrations**.
-- 💼 I have industry experience as a **Software Developer Intern** at the Department of Posts (IT Division).
-- 💬 Ask me about: **MERN Stack, TypeScript, PostgreSQL, and Clean Architecture**.
-- ⚡ Fun fact: I love optimizing UI performance to make the web feel buttery smooth!
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br clear="both">
+### 🎵 Music Streaming App
+**React · Node.js · Express · MongoDB · Cloudinary**
 
-### 🛠️ Tech Stack & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px">
+Full-stack streaming platform with a custom audio player, global state management, and MongoDB aggregation pipelines (`$lookup`, `$unwind`, `$facet`) for real-time trending charts. JWT-secured with likes, comments & artist verification.
 
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,python,java,git,github,aws&perline=8" />
-  </a>
+</td>
+<td width="50%" valign="top">
+
+### 📦 Trust Post Logistics System
+**React · Node.js · PostgreSQL · GPS APIs**
+
+Parcel pickup & delivery platform for the Sri Lanka Postal Department — real-time GPS tracking, cost estimation, an automated chatbot, and an admin panel for nationwide operations.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Advanced E-Commerce Engine
+**React · TypeScript · Node.js · PostgreSQL · Redux Toolkit**
+
+High-performance storefront with optimized SQL-based filtering, simulated Stripe checkout with ACID-compliant transactions, and a Chart.js admin dashboard for live sales analytics.
+
+</td>
+<td width="50%" valign="top">
+
+### 🐶 AI Dog Behavior & Emotion Monitor
+**Python · YOLOv8 · TensorFlow · LSTM**
+
+Multimodal AI system classifying canine emotion & behavior — dual-pathway vision (YOLOv8 + ResNet-50), skeletal action recognition via YOLO-Pose + LSTM, and CNN-based bark/growl audio classification fused at the decision level.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 Online Book Store
+**React · Tailwind CSS · MongoDB**
+
+Full-stack bookshop with cart & secure checkout, plus an admin dashboard for inventory and order tracking.
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 Tuition Class Management App
+**Android · Firebase**
+
+Mobile app for student enrollment, automated scheduling, real-time attendance, and Firebase-backed auth & storage.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:6366f1&height=2&section=header" width="100%"/>
+
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dilantha2001/Dilantha2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
 
 <br/>
 
-### 🐍 Contribution Snake
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:6366f1&height=2&section=header" width="100%"/>
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dilantha2001/Dilantha2001/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dilantha2001&theme=tokyonight&bg_color=1a1b27" alt="Dilantha's GitHub Activity Graph" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dilantha2001&show_icons=true&theme=tokyonight" alt="Dilantha's github stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dilantha2001&theme=tokyonight" alt="Dilantha GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilantha2001&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer" width="100%"/>
+  <br/>
+  <i>Thanks for stopping by — let's build something great! 🚀</i>
 </div>
